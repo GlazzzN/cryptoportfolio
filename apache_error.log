@@ -1,0 +1,59 @@
+[Fri Apr 27 19:14:44.829774 2018] [authz_core:debug] [pid 13975] mod_authz_core.c(809): [client 127.0.0.1:45694] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:44.829874 2018] [authz_core:debug] [pid 13975] mod_authz_core.c(809): [client 127.0.0.1:45694] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:14:50.172072 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:50.172134 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:14:50.172218 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:50.172225 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:14:50.172253 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:50.172258 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:14:50.172274 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:50.172278 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:14:50.172290 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:14:50.172294 2018] [authz_core:debug] [pid 13976] mod_authz_core.c(809): [client 127.0.0.1:45704] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:18.706899 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:18.707183 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:18.707582 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:18.707643 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:18.707753 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:18.707779 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:18.707837 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:18.707854 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:18.707910 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:18.707923 2018] [authz_core:debug] [pid 14115] mod_authz_core.c(809): [client 127.0.0.1:45726] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:21.275981 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:21.276049 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:21.276138 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:21.276147 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:21.276182 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:21.276189 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:21.276216 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:21.276222 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:21.276245 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:21.276251 2018] [authz_core:debug] [pid 14116] mod_authz_core.c(809): [client 127.0.0.1:45746] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:23.353127 2018] [authz_core:debug] [pid 14118] mod_authz_core.c(809): [client 127.0.0.1:45766] AH01626: authorization result of Require all granted: granted, referer: http://cryptoportfolio.local/
+[Fri Apr 27 19:15:23.353199 2018] [authz_core:debug] [pid 14118] mod_authz_core.c(809): [client 127.0.0.1:45766] AH01626: authorization result of <RequireAny>: granted, referer: http://cryptoportfolio.local/
+[Fri Apr 27 19:15:46.555935 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:46.555999 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:46.556071 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:46.556080 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:46.556112 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:46.556119 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:46.556143 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:46.556150 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:46.556171 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:15:46.556178 2018] [authz_core:debug] [pid 14219] mod_authz_core.c(809): [client 127.0.0.1:45768] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:15:49.144444 2018] [authz_core:debug] [pid 14220] mod_authz_core.c(809): [client 127.0.0.1:45788] AH01626: authorization result of Require all granted: granted, referer: http://cryptoportfolio.local/
+[Fri Apr 27 19:15:49.144518 2018] [authz_core:debug] [pid 14220] mod_authz_core.c(809): [client 127.0.0.1:45788] AH01626: authorization result of <RequireAny>: granted, referer: http://cryptoportfolio.local/
+[Fri Apr 27 19:16:30.635694 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:16:30.635780 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:16:30.635858 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:16:30.635867 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:16:30.635900 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:16:30.635908 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:16:30.635934 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:16:30.635942 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:16:30.635964 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted
+[Fri Apr 27 19:16:30.635971 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted
+[Fri Apr 27 19:16:30.714799 2018] [deflate:debug] [pid 14268] mod_deflate.c(853): [client 127.0.0.1:45800] AH01384: Zlib: Compressed 2321 to 750 : URL /index.php
+[Fri Apr 27 19:16:31.556918 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of Require all granted: granted, referer: http://cryptoportfolio.local/
+[Fri Apr 27 19:16:31.556959 2018] [authz_core:debug] [pid 14268] mod_authz_core.c(809): [client 127.0.0.1:45800] AH01626: authorization result of <RequireAny>: granted, referer: http://cryptoportfolio.local/
